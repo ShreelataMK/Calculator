@@ -1,2 +1,2 @@
 # Calculator
-Developed Calculator as mini project in java
+Developed Calculator in java
